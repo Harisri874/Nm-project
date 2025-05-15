@@ -18,8 +18,8 @@ setup(
     license='MIT',
     
     #Author
-    author = "Akhil Singh Rana",
-    author_email = "er.akhil.singh.rana@gmail.com",
+    author = "Hari Sri",
+    author_email = "ekhasrisri41@gmail.com",
     description = ("A machine learning approach to DDoS attack detection in Networking"),
     long_description = read("README.md"),
     install_requires = parse_requiremetns("requirements.txt"),    
